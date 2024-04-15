@@ -4,7 +4,7 @@ Develop a graphical user interface (GUI) application that allows users to genera
 ## Running the Application ##
 Clone or download the repository to your local machine.\
 Navigate to the project directory in your terminal.\
-Run the following command to launch the GUI application:\
+Run the following command to launch the GUI application:
 ```
 python gui.py
 ```
